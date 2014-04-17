@@ -113,6 +113,23 @@ $j = $_POST["j"];
 $p2 = $_POST["p2"];
 $spinpole = $_POST["spinpole"];
 
+#Maximum Spin Pole
+$maxspinpole = 0.5*($boom+$j);
+#Spin Pole Penalty
+$spinpolepenalty = ((max($maxspinpole, $spinpole))-$maxspinpole);
+$j = $j+$spinpolepenalty;
+
+#sailareaCalculationsPrePenalty
+$mainsailarea = ($boom*$p1)/2;
+$headsailarea = 0.85*(($p2*$j)/2);
+$sailarea = $mainsailarea+$headsailarea;
+
+##Max Mast Calculation
+$sqrtofsailarea = sqrt($sailarea);
+$maxmast = (1.7*$sqrtofsailarea)+5;
+$p1 = $p1+(((max($maxmast, $mast))-$maxmast)*2);
+
+
 ##Calculations
 $dispinft = $weight/62.4;
 $sqrtlwl = sqrt($lwl);
@@ -121,16 +138,23 @@ $cbdrtdisp = pow($dispinft, 1/3);
 $minfreeboard = 0.06*$lwl+0.6;
 $freeboarddfct = $minfreeboard-$freeboard;
 $freeboardpenalty = $freeboarddfct*2;
+$maxmainsailarea = 0.82*$sailarea;
+$maxdraft = (0.16*$lwl)+1.75;
+$maxlwl = 27;
+
+#sailareaCalculationsPostPenalty
 $mainsailarea = ($boom*$p1)/2;
 $headsailarea = 0.85*(($p2*$j)/2);
 $sailarea = $mainsailarea+$headsailarea;
-$maxmainsailarea = 0.82*$sailarea;
-$maxdraft = (0.16*$lwl)+1.75;
+
+
+##Penalties
 $draftpenalty = ((max($maxdraft, $draft))-$maxdraft)*3;
+$lwlpenalty = ((max($maxlwl, $lwl))-$maxlwl);
+$totalpenalties = $lwlpenalty+$draftpenalty;
+$mastpenalty = $p1 = ((max($maxmast, $mast))-$maxmast);
 
 
-#to be published as part of report
-$maxspinpole = 0.5*($boom+$j);
 
 #sqrt of sail area is used in formula
 $sqrtofsailarea = sqrt($sailarea);
@@ -144,8 +168,8 @@ $cbdrtdispusd = min($cbdrtdisp, $maxcbdrtdisp);
 #RULE CALCULATION
 $rating = 0.18*$length*$sqrtofsailarea/$cbdrtdispusd;
 
-#Total rating plus penalties
-$ratingwpenalty = $rating+$draftpenalty;
+#Total rating after penalties
+$ratingwpenalty = $rating+$totalpenalties;
 
 ?>
 
@@ -200,18 +224,31 @@ else
 $colourwpen = "'text-success'";
 }
 
+print "<br>Draft Penalty: ";
+print $draftpenalty;
+print "<br>LWL Penalty: ";
+print $lwlpenalty;
+
+print "<br>Mast Penalty: ";
+print $mastpenalty;
+print "<br><i>Mast Penalty is not added directly to Rule the mast height penalty is multiplied by 2 and added to the P1 measurement and calculated as part of the sailarea measurement.</i>";
+
 
 print "<br><br><p class=";
 print $colourwpen;
-print ">Your rating with draft penalty = ";
+print ">Your rating after all penalties = ";
 print $ratingwpenalty;
 print " ft </p>";
+
 
 #spin pole output
 print "<br><br>Your Max Spin Pole Length = ";
 print $maxspinpole;
 print " ft";
 
+print "<br>Spinnaker Pole Penalty: ";
+print $spinpolepenalty;
+print "<br><i>Spin Pole Penalty is not added directly to the Rule. The Spinnaker Pole Penalty is added directly to the J measurement and calculated as part of the sailarea measurement.</i>";
 
 
 ?>
