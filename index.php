@@ -126,7 +126,7 @@ $sailarea = $mainsailarea+$headsailarea;
 
 ##Max Mast Calculation
 $sqrtofsailarea = sqrt($sailarea);
-$maxmast = (1.7*$sqrtofsailarea)+5;
+$maxmast = (1.7*$sqrtofsailarea)+6;
 $p1 = $p1+(((max($maxmast, $mast))-$maxmast)*2);
 
 
