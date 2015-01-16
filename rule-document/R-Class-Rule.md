@@ -30,7 +30,7 @@
 	+ [A2.2 Headsails](#am-headsails)
 	+ [A2.3 Spinnaker](#am-spinnaker)
 	+ [A3.1 Equipment Limitations](#am-equipment-limitations)
-	+ [A4.1 Rule modification](am-rule-modification)
+	+ [A4.1 Rule modification](#am-rule-modification)
 
 ## <a name="1983"></a>1983 Lake Ontario R-Class Rule
 
