@@ -50,7 +50,7 @@ Measurement shall be made in accordance with the provision of this rule and shal
 
 ### <a name="load-water-line"></a>II. LOAD WATER-LINE PLANE.
 
-**  **Established Load Water-Line Plane.
+Established Load Water-Line Plane.
 
 Before being measured, a yacht must have a "Load Water-Line Plane" established and prominently marked at the bow and stern and on each side of the yacht at the point of greatest load water-line breadth. Such plane shall be, as nearly as practicable, the plane of floatation when in racing trim.
 
@@ -68,17 +68,14 @@ The side marks required by Section II shall consist of two equal equilateral tri
 
 The length used in calculating the measurement  **L.** in the formula shall be the *"Load Water-Line Length*" plus one half of the excess of the quarter-beam length over the percentage of the load water-line length given by the formula,
 
-             Percentage=   100  -    
-
-**       **
-
-**        **L=  LWL + 0.5 [ (QBL – LWL  ( 100 -   ) ) ]
+	Percentage=   100  -    
+	L=  LWL + 0.5 [ (QBL – LWL  ( 100 -   ) ) ]
 
 ### <a name="lwl"></a>**V.**   L.W.L. 
 
 *"Load Water-Line Length"*  **(L.W.L.)**  is the distance in a straight line (after bridging as herein specified) between the point farthest forward and farthest aft in the established plane and likewise  *“Load Water-Line Breadth”* is the extreme breadth in the established plane.
 
-       Q.B.L.
+#####Q.B.L.
 
 Quarter beam length  **(Q.B.L.)** shall be measured in a line parallel with the middle fore and aft vertical plane at the distance from it equal to one quarter of the *"Load Water-Line Breadth" and one tenth *of this breadth above the *“Load Water-Line Plane*”. 
 
@@ -94,9 +91,7 @@ Any local concave jog or notch (curved or angular) at the plane of measurement o
 
 ### <a name="d-in-the-formula"></a>**VII.** D in the Formula
 
-Displacements of yachts shall be obtained by weighing upon scales approved by the 
-
-Association.    
+Displacements of yachts shall be obtained by weighing upon scales approved by the Association.    
 
 For the purpose of determining a yacht’s displacement by weighing the weight of a cubic foot of water shall be regarded as sixty-four (64) pounds of salt water and sixty-two and four tenth (62.4) pounds in fresh water.
 
@@ -122,23 +117,18 @@ If the actual freeboard at this point be less than this limit, the deficit shall
 
 Any yacht designed and built before June 1. 1983 will not be subject to a freeboard penalty.
 
-        Sheer.
-
+####Sheer
 The design sheer shall be fair, continuous concave curve, and the tumble home on each side of a yacht shall not exceed two percent (2%) of the extreme beam.
 
 ### <a name="rules-of-construction"></a>**X.** Rules of construction
 
-All yachts shall be built:
+**All yachts shall be built:**
 
-Wooden construction (planked on frames)
-
-Molded plywood
-
-Resin reinforced fiberglass
-
-Aluminum
-
-No bow sprits shall be allowed
++ Wooden construction (planked on frames)
++ Molded plywood
++ Resin reinforced fiberglass
++ Aluminum
++ No bow sprits shall be allowed
 
 ### <a name="sail-area"></a>XI. SAIL AREA
 
@@ -264,25 +254,33 @@ The material of mast, winches, and (or) boom can not be carbon fibre or similar 
 
 #### <a name="am-mainsail"></a>A3.1 Mainsail
 
-	The maximum mainsail half height width shall be limited to 65% of boom (E) measurement, and the Maximum Mainsail 3/4 height width 38% of boom (E) measurement. Full length battens shall be permitted. In no event shall the number of battens exceed 4 per mainsail.
+The maximum mainsail half height width shall be limited to 65% of boom (E) measurement, and the Maximum Mainsail 3/4 height width 38% of boom (E) measurement. Full length battens shall be permitted. In no event shall the number of battens exceed 4 per mainsail.
 
 #### <a name="am-headsails"></a>A3.2 Headsails
 
-	The genoa foot measurement shall in no event exceed 19 ft. Such measurement shall be taken from the foremost edge at the tack to the furthest point at the clew of the sail. Boats R13, R21, and R15 shall be allowed a maximum foot measurement of 21.75 ft provided these yachts do not change their J (mast to forestay) or E (Length of Boom) effective Jan 1st, 2013. All alterations to the fleet after Jan 1st, 2013 shall conform to the 19’ rule.
+The genoa foot measurement shall in no event exceed 19 ft. Such measurement shall be taken from the foremost edge at the tack to the furthest point at the clew of the sail. Boats R13, R21, and R15 shall be allowed a maximum foot measurement of 21.75 ft provided these yachts do not change their J (mast to forestay) or E (Length of Boom) effective Jan 1st, 2013. All alterations to the fleet after Jan 1st, 2013 shall conform to the 19’ rule.
 
 #### <a name="am-spinnaker"></a>A3.3 Spinnaker
 
-	The maximum Luff dimension shall be the square root of J squared plus P2 squared
+The maximum Luff dimension shall be the square root of J squared plus P2 squared
 
-	All spinnakers must be symmetrical, no asymmetric spinnakers shall be permitted during racing.
+$$\sqrt{J^{2}+P2^{2}}$$
+
+All spinnakers must be symmetrical, no asymmetric spinnakers shall be permitted during racing.
+
+#### <a name="am-masts"></a>A3.4 Masts
+Maximum Mast Height to be 1.7 times square root of sail area + 6 ft AND not to exceed 47 ft from deck.
+
+$$Max Mast Height = 1.7 \sqrt{SA + 6}$$ 
+
 
 ### <a name="am-equipment-limitations"></a>A4.1 Equipment Limitations
 
-	The spinnaker tack may be lead to any point on the centreline of the deck forward of forestay landing, the spinnaker may be flown without a pole.
+The spinnaker tack may be lead to any point on the centreline of the deck forward of forestay landing, the spinnaker may be flown without a pole.
 
 ### <a name="am-rule-modification"></a>A5.1 Rule modification
 
-	The acceptance and any further alteration to the measurement rules may only result from a 2/3rds majority vote of the Association in favour thereof.
+The acceptance and any further alteration to the measurement rules may only result from a 2/3rds majority vote of the Association in favour thereof.
 
 	
 
