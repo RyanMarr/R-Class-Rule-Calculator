@@ -4,33 +4,33 @@
 
 + [**1983 Lake Ontario R-Class Rule**](#1983)
 	+ [I. Universal Rule](#universal-rule)
-	+ II. LOAD WATER-LINE PLANE.
-	+ III. HULL MARKS.
-	+ IV.   L. in the Formula.
-	+ V.   L.W.L.
-	+ VI.   Concavities
-	+ VII.   D. in the Formula
-	+ VIII.   Draft.
-	+ IX.   Freeboard
-	+ X.   Rules of construction
-	+ XI. SAIL AREA
-		+ MAINSAIL
-		+ HEADSAILS
-		+ SPINNAKER
-		+ TOTAL SAIL AREA
-	+ XII.   Sail Area limits
-		+ PERMANENTLY CURVED MASTS.
-	+ XIII.   Certificates of measurements
-	+ XIV.   Remeasurement and validation
-	+ XV.   Rule modification
-+ **2013 Lake Ontario R-Class Rule Amendments**
-	+ A1.1 Rules of Construction
-	+ A2 Sail Area
-	+ A2.1 Mainsail
-	+ A2.2 Headsails
-	+ A2.3 Spinnaker
-	+ A3.1 Equipment Limitations
-	+ A4.1 Rule modification
+	+ [II. LOAD WATER-LINE PLANE.](#load-water-line)
+	+ [III. HULL MARKS.](#hull-marks)
+	+ [IV.   L. in the Formula.](#l-in-the-formula)
+	+ [V.   L.W.L.](#lwl)
+	+ [VI.   Concavities](#concavities)
+	+ [VII.   D. in the Formula](#d-in-the-formula)
+	+ [VIII.   Draft.](#draft)
+	+ [IX.   Freeboard](#freeboard)
+	+ [X.   Rules of construction](#rules-of-construction)
+	+ [XI. SAIL AREA](#sail-area)
+		+ [MAINSAIL](#mainsail)
+		+ [HEADSAILS](#headsails)
+		+ [SPINNAKER](#spinnaker)
+		+ [TOTAL SAIL AREA](#total-sail-area)
+	+ [XII.   Sail Area limits](#sail-area-limits)
+		+ [PERMANENTLY CURVED MASTS.](#permanently-curved-masts)
+	+ [XIII.   Certificates of measurements](#certificate-of-measurements)
+	+ [XIV.   Remeasurement and validation](#remeasurement-and-validation)
+	+ [XV.   Rule modification](#rule-modification)
++ [**2013 Lake Ontario R-Class Rule Amendments**](#2013)
+	+ [A1.1 Rules of Construction](#am-rules-of-construction)
+	+ [A2 Sail Area](#am-sail-area)
+	+ [A2.1 Mainsail](#am-mainsail)
+	+ [A2.2 Headsails](#am-headsails)
+	+ [A2.3 Spinnaker](#am-spinnaker)
+	+ [A3.1 Equipment Limitations](#am-equipment-limitations)
+	+ [A4.1 Rule modification](am-rule-modification)
 
 ## <a name="1983"></a>1983 Lake Ontario R-Class Rule
 
@@ -54,7 +54,7 @@ Formula Measurement =
 
 exceed 20 feet or less than 18.5 feet for an R-Class Yacht.
 
-### II. LOAD WATER-LINE PLANE.
+### <a name="load-water-line"></a>II. LOAD WATER-LINE PLANE.
 
 **  **Established Load Water-Line Plane.
 
@@ -62,13 +62,13 @@ Before being measured, a yacht must have a "Load Water-Line Plane" established a
 
 This "Load Water-Line Plane" is to be the plane from which all calculation are made, including displacement, quarter-beam length, and draft. When once established it can not be changed before the beginning of the next racing season, unless the yacht has undergone extensive alterations in hull. Notice of such alterations must be filed with the Measurer at least two weeks prior to the day of any race in which the yacht may start.
 
-### III. HULL MARKS.
+### <a name="hull-marks"></a>III. HULL MARKS.
 
 ** ****	**The side marks required by Section II shall consist of two equal equilateral triangles whose apices touch the established plane of floatation and whose bases are parallel to such plane. The total vertical height of each side mark shall be one two hundredth (1/200) of the water-line length. The bow and stern marks shall be rectangular marks six (6) inches long, three (3) inches on each side of the centre line, and one half (1/2) inch in width, the long side in a vertical plane. The lowest point of the mark shall indicate the position of the established plane. The quarter-beam marks shall be circular, one inch in diameter, and the center of the circle shall indicate the point of measurement. Marks may be countersunk; on metal hulls the may by outlined by punch marks. All marks shall be of standard patterns approved by the Executive Committee of the Association.
 
  When in trim, both under cruising and racing restrictions, the vessel floating on an even keel in water of usual density, both side marks must be cut by the surface of the water. (This means that a yacht without change of rating may be 1/400 of its "*Load Water-Line Length"* deep or light as the case may be.) 
 
-### **IV**.   L. in the Formula.
+### <a name="l-in-the-formula"></a>**IV**.   L. in the Formula.
 
             
 
@@ -80,7 +80,7 @@ The length used in calculating the measurement  **L.** in the formula shall be t
 
 **        **L=  LWL + 0.5 [ (QBL – LWL  ( 100 -   ) ) ]
 
-### **V.**   L.W.L. 
+### <a name="lwl"></a>**V.**   L.W.L. 
 
 *"Load Water-Line Length"*  **(L.W.L.)**  is the distance in a straight line (after bridging as herein specified) between the point farthest forward and farthest aft in the established plane and likewise  *“Load Water-Line Breadth”* is the extreme breadth in the established plane.
 
@@ -92,13 +92,13 @@ The *"Load Water-Line Length*"  **(L.W.L.)**  (20’) of a yacht, in feet shall 
 
 Any excess of the actual *"Load Water-Line Length*"  **(L.W.L.)** above this limit shall be added to the measurement.
 
-### **VI.   **Concavities
+### <a name="concavities"></a>**VI.** Concavities
 
 Any concavity at the plane of measurement of the quarter-beam length, in either the quarter-beam buttock or the tenth-beam water-line, shall be bridged by a straight line of a length equal to one third (1/3) of the greatest load water-line beam. The center of such straight line to which the quarter-beam length shall be measured, shall be placed horizontally opposite the point of measurement.
 
 Any local concave jog or notch (curved or angular) at the plane of measurement of either end of the load water-line length, shall be bridged by a straight line and the **L.W.L.** taken to the intersection of such lines with the established load water-line plane. The stem or stern profile lines, where they cross the load water-line plane may be fair easy curves; but any concavity in the stem line shall be bridged by a straight line equal to fifteen percent (15%) of the load water-line plane. The load water-line **(L.W.L.)** shall be measured to the intersection of this line with the established load water-line plane.
 
-### **VII.**   D. in the Formula**   **
+### <a name="d-in-the-formula"></a>**VII.** D in the Formula
 
 Displacements of yachts shall be obtained by weighing upon scales approved by the 
 
@@ -114,13 +114,13 @@ There shall be no limit on the on the actual displacement of yachts, but the cub
 
 If the actual displacement is smaller than that allowed by this limit, the actual displacement shall be used in computing the measurement; if the actual displacement is greater, then the limiting value of the cube root of  **D.** shall be used in computing the measurement.
 
-### **VIII.**   Draft. 
+### <a name="draft"></a> **VIII.**   Draft. 
 
 The limit of draft of yachts shall be in feet: sixteen percent (16%)  of the  L.W.L. plus one and three quarters (1.75).
 
 Any excess of draft as per above formula, shall be multiplied by three (3) and added to the measurement.
 
-### **IX.**   Freeboard
+### <a name="freeboard"></a>**IX.**   Freeboard
 
 The freeboard in feet, to the top of the cover board, at the mid point of the established load water-line plane shall not be less than five percent (5%)  of the  load water-line  plus six (0.6) or 1.95 feet.
 
@@ -132,7 +132,7 @@ Any yacht designed and built before June 1. 1983 will not be subject to a freebo
 
 The design sheer shall be fair, continuous concave curve, and the tumble home on each side of a yacht shall not exceed two percent (2%) of the extreme beam.
 
-### **X.****   **Rules of construction
+### <a name="rules-of-construction"></a>**X.** Rules of construction
 
 All yachts shall be built:
 
@@ -146,11 +146,11 @@ Aluminum
 
 No bow sprits shall be allowed
 
-### XI. SAIL AREA
+### <a name="sail-area"></a>XI. SAIL AREA
 
 The Measurer shall make the following measurements, calculate the sail area there from in accordance with the following formula, and the square root of this area shall be the   in the measurement formula. After having been officially measured, a yacht shall not make any alterations in her sail plan without the written notice to the Association embodying a request for remeasurement.
 
-#### MAINSAIL
+##### <a name="mainsail"></a>MAINSAIL
 
 **B.**    Length of boom measured from after-side of mast to outboard end, including fittings or ornamental caps or to the inside edge of a black band, one (1) inch wide, painted on the boom, indicating the maximum out-haul position of the mainsail foot. In case of any device or extension by means of which the out-haul may be extended beyond the end of the spar, this measurement shall be taken to the extreme possible of out-haul device.
 
@@ -162,13 +162,13 @@ The area of a triangular mainsail shall be obtained from the above the above mea
 
  
 
-#### HEADSAILS
+##### <a name="headsails"></a> HEADSAILS
 
 **J.**    The  J  to be measured from the foreside of the mast to where the line of the foremost headsail, when extended, cuts the hull.
 
 **P2.**    A perpendicular to be measured along the foreward side of the mast from the higher of the following points; the top of the highest heave in the mast used for headsails or spinnaker, or the highest juncture of the mast eye-bolt (centre of eye) or pennant of a halyard block used for headsails or spinnaker;  to the deck. But in no case shall the upper point of measurement be taken below the point of intersection of the line of the luff of the foremost headsail, when extended, and the mast.
 
-#### SPINNAKER
+##### <a name="spinnaker"></a> SPINNAKER
 
 The length of the spinnaker boom shall be limited to fifty percent (50%) of the entire baseline determined by the sum of  **B + J +** **the fore and aft dimension of the mast at the black band** (gooseneck). Any excess in the length of the spinnaker boom over the above limit shall be added to the J of the fore-triangle when computing the area of the headsails.
 
@@ -176,7 +176,7 @@ In all the yachts the area of the headsails shall be obtained by multiplying  **
 
 Formula:   0.85 x    P2  x  J
 
-#### TOTAL SAIL AREA
+##### <a name="total-sail-area"></a> TOTAL SAIL AREA
 
 The total sail area for the purposes of the measurement shall be the sum of the areas of mainsail and headsails as calculated by the above method.
 
@@ -186,7 +186,7 @@ A spinnaker may have no headstick or board nor any contrivances for extending th
 
 In case a yacht shall carry a forward or jibstay strut, the actual area between the stay and the mast shall be calculated, and eighty-five percent (85%) of the excess of such area over that of the foretriangle shall be added in computing the total area for determining the measurement.
 
-### **XII.**   Sail Area limits
+### <a name="sail-area-limits"></a>**XII.**   Sail Area limits
 
 Not more than eighty-two percent (82%) of the sail area shall be abaft of the mast.
 
@@ -198,7 +198,7 @@ The perpendicular  **P2** shall be limited to eighty-seven and one half percent 
 
 **P1**.
 
-Any excess of  **P1** or  **P2  **shall be multiplied by two (2) and added to the respected **P.**
+Any excess of  **P1** or  **P2** shall be multiplied by two (2) and added to the respected **P.**
 
 The height of triangular mainsails shall be limited as follows:
 
@@ -216,11 +216,11 @@ Perpendicular  **P1**  in computing the sail area.
 
 The head-board or club shall not exceed three percent (3%) of the length of the boom.
 
-#### PERMANENTLY CURVED MASTS.
+##### <a name="permanently-curved-masts"></a> PERMANENTLY CURVED MASTS.
 
 Permanently curved masts are prohibited except in yachts which have been so equipped prior to April 30 1927. Rotating masts, double luffed sails and similar contrivances are prohibited.
 
-### **XIII.   **Certificates of measurements
+### <a name="certificates-of-measurements"></a>XIII. Certificates of measurements
 
 The Measurer, or his assistants, shall personally measure the spars, the load water-line and quarter-beam lengths, as established and marked in accordance with the section headed "Length". He may accept drawings, dimensions and calculations of any or all other specified measurements when certified to by the designer; but previous to issuing the certificate of measurement, he or his assistants, shall personally verify the line of floatation. Certificates of measurement shall give all the principal elements of length, sail area and displacement used in computing the rating, and shall specify whether obtained from actual measurements, weighing or designer’s certificates. Any request on the part of the Measurer to the designer for calculations of displacement or other factors must give lengths of overhangs, as actually measured, and shall be accompanied by a sketch sufficient to clearly show the location of the extreme foreward and after points of measurements relative to the stem head, taffrail and established load water-line plane. 
 
@@ -236,9 +236,9 @@ Yachts which have been built by firms in which they have business interest.
 
 Yachts in which they are themselves the owners or part owners.
 
-###  
+  
 
-### **XIV.**   Remeasurement and validation 
+### <a name="remeasurement-and-validation"></a>XIV. Remeasurement and validation 
 
  Yachts shall be measured and a new certificate issued or the existing certificate validated for a further two (2) year period providing the yacht is inspected by the official measurer.
 
@@ -250,43 +250,43 @@ Upon notification by the Owner or the Association that changes have been made in
 
 In the event of remeasurement, verification of the line of floatation and/or load water-line plane shall be sufficient evidence that displacement, quarter beam length and draft have not been changed since the last measurement and such factors need not be rechecked.
 
-### **XV.**   Rule modification
+### <a name="rule-modification"></a>XV. Rule modification
 
 The acceptance and any further alteration to the measurement rules may only result from a unanimous vote of the Association in favour thereof.
 
-## 2013 Lake Ontario R-Class Rule Amendments 
+## <a name="2013"></a>2013 Lake Ontario R-Class Rule Amendments 
 
 The following amendments will overrule any of the above restrictions or allowances. 
 
-### A1.1 Freeboard
+### <a name="am-freeboard"></a>A1.1 Freeboard
 
 Any yacht designed before June 1. 1983 will not be subject to a freeboard penalty.
 
-### A2.1 Rules of Construction
+### <a name="am-rules-of-construction"></a>A2.1 Rules of Construction
 
 The material of mast, winches, and (or) boom can not be carbon fibre or similar composites. Exceptions to this rule are for mounting accessories, spinnaker poles, floorboards, soft padeyes, and the like.
 
-### A3 Sail Area
+### <a name="am-sail-area"></a>A3 Sail Area
 
-#### A3.1 Mainsail
+#### <a name="am-mainsail"></a>A3.1 Mainsail
 
 	The maximum mainsail half height width shall be limited to 65% of boom (E) measurement, and the Maximum Mainsail 3/4 height width 38% of boom (E) measurement. Full length battens shall be permitted. In no event shall the number of battens exceed 4 per mainsail.
 
-#### A3.2 Headsails
+#### <a name="am-headsails"></a>A3.2 Headsails
 
 	The genoa foot measurement shall in no event exceed 19 ft. Such measurement shall be taken from the foremost edge at the tack to the furthest point at the clew of the sail. Boats R13, R21, and R15 shall be allowed a maximum foot measurement of 21.75 ft provided these yachts do not change their J (mast to forestay) or E (Length of Boom) effective Jan 1st, 2013. All alterations to the fleet after Jan 1st, 2013 shall conform to the 19’ rule.
 
-#### A3.3 Spinnaker
+#### <a name="am-spinnaker"></a>A3.3 Spinnaker
 
 	The maximum Luff dimension shall be the square root of J squared plus P2 squared
 
 	All spinnakers must be symmetrical, no asymmetric spinnakers shall be permitted during racing.
 
-### A4.1 Equipment Limitations
+### <a name="am-equipment-limitations"></a>A4.1 Equipment Limitations
 
 	The spinnaker tack may be lead to any point on the centreline of the deck forward of forestay landing, the spinnaker may be flown without a pole.
 
-### A5.1 Rule modification
+### <a name="am-rule-modification"></a>A5.1 Rule modification
 
 	The acceptance and any further alteration to the measurement rules may only result from a 2/3rds majority vote of the Association in favour thereof.
 
