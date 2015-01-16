@@ -1,12 +1,40 @@
-** ****Ontario R-Class Association Official Rules of Measurement (****2013****)**
+#Ontario R-Class Association Official Rules of Measurement (**2013**)
 
-TABLE OF CONTENTS
+###TABLE OF CONTENTS
 
-[[TOC]]
++ [**1983 Lake Ontario R-Class Rule**](#1983)
+	+ [I. Universal Rule](#universal-rule)
+	+ II. LOAD WATER-LINE PLANE.
+	+ III. HULL MARKS.
+	+ IV.   L. in the Formula.
+	+ V.   L.W.L.
+	+ VI.   Concavities
+	+ VII.   D. in the Formula
+	+ VIII.   Draft.
+	+ IX.   Freeboard
+	+ X.   Rules of construction
+	+ XI. SAIL AREA
+		+ MAINSAIL
+		+ HEADSAILS
+		+ SPINNAKER
+		+ TOTAL SAIL AREA
+	+ XII.   Sail Area limits
+		+ PERMANENTLY CURVED MASTS.
+	+ XIII.   Certificates of measurements
+	+ XIV.   Remeasurement and validation
+	+ XV.   Rule modification
++ **2013 Lake Ontario R-Class Rule Amendments**
+	+ A1.1 Rules of Construction
+	+ A2 Sail Area
+	+ A2.1 Mainsail
+	+ A2.2 Headsails
+	+ A2.3 Spinnaker
+	+ A3.1 Equipment Limitations
+	+ A4.1 Rule modification
 
-## 1983 Lake Ontario R-Class Rule
+## <a name="1983"></a>1983 Lake Ontario R-Class Rule
 
-### I. Universal Rule
+<a name="universal-rule"></a>### I. Universal Rule
 
 Lake Ontario Rule of Measurement for R-Class Yachts shall be rated according to the following formula**:**
 
