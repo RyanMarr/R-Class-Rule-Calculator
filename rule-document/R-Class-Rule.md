@@ -24,13 +24,15 @@
 	+ [XIV.   Remeasurement and validation](#remeasurement-and-validation)
 	+ [XV.   Rule modification](#rule-modification)
 + [**2013 Lake Ontario R-Class Rule Amendments**](#2013)
-	+ [A1.1 Rules of Construction](#am-rules-of-construction)
-	+ [A2 Sail Area](#am-sail-area)
-	+ [A2.1 Mainsail](#am-mainsail)
-	+ [A2.2 Headsails](#am-headsails)
-	+ [A2.3 Spinnaker](#am-spinnaker)
-	+ [A3.1 Equipment Limitations](#am-equipment-limitations)
-	+ [A4.1 Rule modification](#am-rule-modification)
+	+ [A1.1 Freeboard](#am-freeboard)
+	+ [A2.1 Rules of Construction](#am-rules-of-construction)
+	+ [A3 Sail Area](#am-sail-area)
+	+ [A3.1 Mainsail](#am-mainsail)
+	+ [A3.2 Headsails](#am-headsails)
+	+ [A3.3 Spinnaker](#am-spinnaker)
+	+ [A3.4 Masts](#am-masts)
+	+ [A4.1 Equipment Limitations](#am-equipment-limitations)
+	+ [A5.1 Rule modification](#am-rule-modification)
 
 ## <a name="1983"></a>1983 Lake Ontario R-Class Rule
 
