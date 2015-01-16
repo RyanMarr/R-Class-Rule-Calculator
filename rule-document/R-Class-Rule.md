@@ -38,21 +38,15 @@
 
 Lake Ontario Rule of Measurement for R-Class Yachts shall be rated according to the following formula**:**
 
-Formula Measurement =
+Formula Measurement:
 
-                                        
+$$ R = 0.18 \frac{L * \sqrt{S}}{\sqrt[3]{D}} $$                
 
-                                 Maximum 20ft                                              
+Maximum 20ft                                              
 
-                                                                         
+(Eighteen percent of the Product of length multiplied by the square root of the sail area     divided by the cube root of displacement.)
 
-**   **
-
-                (Eighteen percent of the Product of length multiplied by the square root of the sail area     divided by the cube root of displacement.)
-
-               Measurement shall be made in accordance with the provision of this rule and shall not    
-
-exceed 20 feet or less than 18.5 feet for an R-Class Yacht.
+Measurement shall be made in accordance with the provision of this rule and shall not exceed 20 feet or less than 18.5 feet for an R-Class Yacht.
 
 ### <a name="load-water-line"></a>II. LOAD WATER-LINE PLANE.
 
@@ -64,7 +58,7 @@ This "Load Water-Line Plane" is to be the plane from which all calculation are m
 
 ### <a name="hull-marks"></a>III. HULL MARKS.
 
-** ****	**The side marks required by Section II shall consist of two equal equilateral triangles whose apices touch the established plane of floatation and whose bases are parallel to such plane. The total vertical height of each side mark shall be one two hundredth (1/200) of the water-line length. The bow and stern marks shall be rectangular marks six (6) inches long, three (3) inches on each side of the centre line, and one half (1/2) inch in width, the long side in a vertical plane. The lowest point of the mark shall indicate the position of the established plane. The quarter-beam marks shall be circular, one inch in diameter, and the center of the circle shall indicate the point of measurement. Marks may be countersunk; on metal hulls the may by outlined by punch marks. All marks shall be of standard patterns approved by the Executive Committee of the Association.
+The side marks required by Section II shall consist of two equal equilateral triangles whose apices touch the established plane of floatation and whose bases are parallel to such plane. The total vertical height of each side mark shall be one two hundredth (1/200) of the water-line length. The bow and stern marks shall be rectangular marks six (6) inches long, three (3) inches on each side of the centre line, and one half (1/2) inch in width, the long side in a vertical plane. The lowest point of the mark shall indicate the position of the established plane. The quarter-beam marks shall be circular, one inch in diameter, and the center of the circle shall indicate the point of measurement. Marks may be countersunk; on metal hulls the may by outlined by punch marks. All marks shall be of standard patterns approved by the Executive Committee of the Association.
 
  When in trim, both under cruising and racing restrictions, the vessel floating on an even keel in water of usual density, both side marks must be cut by the surface of the water. (This means that a yacht without change of rating may be 1/400 of its "*Load Water-Line Length"* deep or light as the case may be.) 
 
